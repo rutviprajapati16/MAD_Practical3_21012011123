@@ -16,6 +16,6 @@ LinearLayout, RelativeLayout,  ConstraintLayout, Card View, Image View, ScollVie
 
 **Dark Theme:**
 
-<img src="https://github.com/rutviprajapati16/MAD_Practical3_21012011123/assets/97946004/bb3f18f2-3b27-4606-bd76-7f4a24d22420" height="200" width="200">
+<img src="https://github.com/rutviprajapati16/MAD_Practical3_21012011123/assets/97946004/bb3f18f2-3b27-4606-bd76-7f4a24d22420" height="500" width="500">
 
 
