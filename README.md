@@ -9,13 +9,12 @@ LinearLayout, RelativeLayout,  ConstraintLayout, Card View, Image View, ScollVie
 
 **Light Theme:**
 
-![Screenshot_20231005_105247](https://github.com/rutviprajapati16/MAD_Practical3_21012011123/assets/97946004/36af2691-9726-40ec-ade5-cde9438b51ba height="200",width="100")
+![Screenshot_20231005_105247](https://github.com/rutviprajapati16/MAD_Practical3_21012011123/assets/97946004/36af2691-9726-40ec-ade5-cde9438b51ba)
 
 
 
 
 **Dark Theme:**
-
-![Screenshot_20231005_111031](https://github.com/rutviprajapati16/MAD_Practical3_21012011123/assets/97946004/ef5f3f4b-702d-4f65-ba2f-309c81925255)
+<img src="https://github.com/rutviprajapati16/MAD_Practical3_21012011123/assets/97946004/bb3f18f2-3b27-4606-bd76-7f4a24d22420" height="100" width="100">
 
 
