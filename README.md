@@ -7,6 +7,7 @@ LinearLayout, RelativeLayout,  ConstraintLayout, Card View, Image View, ScollVie
 
 **AIM:** Create Given UI by using ConstraintLayout.
 
+
 **Light Theme:**
 
 <img src="https://github.com/rutviprajapati16/MAD_Practical3_21012011123/assets/97946004/49d87c3c-6ed8-423d-9144-4b07262eb615" height="500" width="400">
